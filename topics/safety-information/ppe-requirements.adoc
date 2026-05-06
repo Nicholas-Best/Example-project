@@ -1,0 +1,8 @@
+=== PPE requirements
+
+:warning-body: Use Personal Protective Equipment (PPE), such as gloves, safety glasses, and boots as required. + \
+Do not wear loose clothing when working with the {product-name}. + \
+Do not eat, drink, or smoke when working with the {product-name}.
+include::../../snippets/warning.adoc[]
+
+Wear appropriate clothing and protective equipment when working with {product-name}. Follow all local regulations and safety guidelines.

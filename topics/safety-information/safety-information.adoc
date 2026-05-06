@@ -1,0 +1,2 @@
+== Safety information
+This section provides an overview of the information necessary to protect any persons that work on the device and help maintain the device in correct uninterrupted operation. Make sure to read and follow all safety information in this section before working on the device.

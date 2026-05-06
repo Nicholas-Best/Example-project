@@ -1,21 +1,9 @@
-= PX-Jammer Pro 5000
+= {product-name}
 
-[%discrete]
+[discrete]
 == Installation and maintenance manual
 
-:hardbreaks-option:
-
-image::https://via.placeholder.com/600x400.png[Diagram of the PX-Jammer]
+image::https://via.placeholder.com/600x400.png[Cover image for the {product-name}]
 
 Read this manual before use.
 Retain this manual for future use.
-
-:toc: left
-:toclevels: 3
-
-include::introductory-information.adoc[]
-include::safety-information/safety-notices.adoc[]
-include::safety-information/safety-labels.adoc[]
-include::safety-information/intended-use.adoc[]
-include::safety-information/ppe-requirements.adoc[]
-include::safety-information/residual-risks/.adoc[]

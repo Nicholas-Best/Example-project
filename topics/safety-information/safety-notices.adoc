@@ -1,0 +1,11 @@
+=== Safety notices
+The following safety notices are used throughout the manual. Safety notices are used at the beginning of a section or in step procedures and indicate additional important information.
+
+:warning-body: Indicates a hazardous situation that, if not avoided, could result in serious harm or death.
+include::../../snippets/warning.adoc[]
+:caution-body: Indicate a hazardous situation that, if not avoided, could result in serious harm to your person or damage to the device or equipment.
+include::../../snippets/caution.adoc[]
+:note-body: Contains important information that can help the user and can avoid future inconviniences.
+include::../../snippets/note.adoc[]
+:tip-body: Contains additional information that can help the user.
+include::../../snippets/tip.adoc[]

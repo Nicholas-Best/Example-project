@@ -1,0 +1,9 @@
+=== Intended use
+
+:caution-body: {product-name} must not be used near hospitals or airports because it could cause interfierance with medical devices or traffic control.
+include::../../snippets/caution.adoc[]
+
+{product-name} is Radio Frequency (RF) suppression device that is used to restrain communications within restricted security zones. It is intended for use by authorized security personnel to preven unauthorized signal transmission in sensitive enrionmentss.
+{product-name} operates on the Jammer 5.0 firmware architecture, allowing for real-time spectral analysis and reactive jamming.
+
+{product-name} is not intended for use in disrupting public emergency services or for personal privacy interference in public spaces.

@@ -1,0 +1,6 @@
+[WARNING]
+====
+*CAUTION*
+*Risk of serious injury or damage to device!*
+{caution-body}
+====

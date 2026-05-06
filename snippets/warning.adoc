@@ -1,0 +1,6 @@
+[WARNING]
+====
+*WARNING*
+*Risk of serious injury or death!*
+{warning-body}
+====

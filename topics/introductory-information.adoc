@@ -1,11 +1,22 @@
 Published on: /date
 Document ID: PX-J5XXX-V1
 
-[%discrete]
+[discrete]
 ==== Copyright
+Copyright {company-name} All Rights Reserved.
+Contains information owned by {company-name}. Do not copy, store, transmit or disclose any information without prior written permission from {company-name}.
+Other product and company names may be trademarks or registered trademarks of other companies, and are the property of their owners. They are only used to reference or explanations, without the intent to infringe.
 
-[%discrete]
+[discrete]
 ==== Purpose of this manual
+The purpose of this manual is to explain the procedure for installing and maintaning the {product-name} for its safe, and proper use and care.
+For more information contact {email}.
 
-[%discrete]
+[discrete]
 ==== Contact information
+{company-name} Ltd.
+{address}
+{phone}
+
+{email}
+{webpage}

@@ -1,0 +1,6 @@
+=== Safety labels
+
+:warning-body: Any label that is found to be illegible must be immediately replaced.
+include::../../snippets/warning.adoc[]
+
+Safety labels are placed in various locations on the device to indicate potentially hazardous situations. Safety labels must not be removed.
