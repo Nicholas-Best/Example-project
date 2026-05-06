@@ -1,0 +1,11 @@
+[.redbox]
+[cols="2,15", frame="all", grid="cols"]
+|===
+| {nbsp} +
+{nbsp} +
+{nbsp}{nbsp}{nbsp}image:P007.svg[width=40]
+| *WARNING* +
+*Risk of damage to pacemaker!* +
+No access for personnel with active medical implants. Strong electromagnetic interference (EMI) may cause programmed parameters to change or cause the device to deliver inappropriate therapy. +
+Consult technical specifications before proceeding.
+|===

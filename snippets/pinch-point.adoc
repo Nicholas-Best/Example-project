@@ -1,0 +1,9 @@
+[.redbox]
+[cols="2,15", frame="all", grid="cols"]
+|===
+| {nbsp} +
+{nbsp}{nbsp}{nbsp}image:W030.svg[width=40]
+| *WARNING* +
+*Risk of crushed or trapped hands!* +
+There is a risk of trapping hands between the device and the wall mount. To avoid injury, when placing the device on the wall mount, handle by the sides.
+|===

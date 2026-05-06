@@ -1,0 +1,11 @@
+[.redbox]
+[cols="2,15", frame="all", grid="cols"]
+|===
+| {nbsp} +
+{nbsp} +
+{nbsp}{nbsp}{nbsp}image:Radio.svg[width=40]
+| *WARNING* +
+*Risk of radio frequency exposure!* +
+High-level RF electromagnetic fields exposure may exceed FCC/ICNIRP limits for human safety. Access is restricted to authorized personnel following established safety protocols. +
+Maintain a minimum safety distance of 2 meters from antenna face while energized.
+|===

@@ -1,0 +1,3 @@
+==== Pinch points
+
+include::../../../snippets/pinch-point.adoc[]

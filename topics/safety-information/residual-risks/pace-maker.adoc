@@ -1,0 +1,2 @@
+=== Pace maker
+include::../../../snippets/pace-maker.adoc[]

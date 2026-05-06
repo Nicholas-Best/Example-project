@@ -1,0 +1,10 @@
+[.redbox]
+[cols="2,15", frame="all", grid="cols"]
+|===
+| {nbsp} +
+{nbsp}{nbsp}{nbsp}image:W012.svg[width=40]
+| *WARNING* +
+*Risk of eletric shock or damage to equipment!* +
+Do not use power sources or voltages other than the ones specified in this document. Connection to innapropriate power sources can cause injury and electrical fire.
+Isolate the device before removing panels or touching wires.
+|===

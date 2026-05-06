@@ -6,22 +6,34 @@
 :phone: +1 (775) 555-0142
 :webpage: www.jam-corp.fake
 
+:pdf-theme: ./styles.yml
 :icons: font
+:imagesdir: images
 :hardbreaks-option:
 
 //:toc: left
 :toclevels: 3
 //:toc-title: Table of Contents
 
-//[#cover-page]
-//= Cover
 
+// Cover page
 include::topics/cover.adoc[]
 include::topics/introductory-information.adoc[]
 
 include::topics/safety-information/safety-information.adoc[]
 
+// Safety information
 include::topics/safety-information/safety-notices.adoc[]
+
+include::topics/safety-information/residual-risks/residual-risks.adoc[]
+
+include::topics/safety-information/residual-risks/electrical-current.adoc[]
+
+include::topics/safety-information/residual-risks/rf-emf.adoc[]
+
+include::topics/safety-information/residual-risks/pinch-points.adoc[]
+
+include::topics/safety-information/residual-risks/pace-maker.adoc[]
 
 include::topics/safety-information/safety-labels.adoc[]
 
