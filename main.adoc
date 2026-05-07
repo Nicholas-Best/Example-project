@@ -54,13 +54,15 @@ include::topics/hardware-description/hardware-description.adoc[]
 
 include::topics/hardware-description/overview.adoc[]
 
-include::topics/hardware-description/box-contents.adoc[]
+include::topics/hardware-description/main-parts.adoc[]
 
-//include::topics/hardware-description/device-parts.adoc[]
+include::topics/hardware-description/pcbu.adoc[]
 
 <<<
 
 // Installation
+
+
 
 <<<
 

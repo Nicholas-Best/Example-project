@@ -16,3 +16,11 @@ role:
     table_grid_color: #E6E6E6
     # Padding: Top, Right, Bottom, Left
     table_padding: [10, 15, 10, 15]
+
+role:
+  red-circle:
+    font_color: #FFFFFF
+    background_color: #FF0000
+    border_radius: 10
+    # You might need to adjust padding to make it look like a circle
+    padding: [2, 5, 2, 5]

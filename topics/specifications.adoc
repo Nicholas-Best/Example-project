@@ -1,0 +1,13 @@
+== Specifications
+
+{product-name} has the following specifications.
+
+[cols="1h,3", frame=all, grid=rows]
+|===
+| Weight | 4.2 kg (with dual battery modules)
+| Dimensions | 350mm x 280mm x 85mm
+| Frequency range | 2.4GHz - 5.8GHz
+| Power supply | Dual 14.4V Lithium-Ion battery packs
+| Operating temperature | -10°C to 45°C
+| Chassis material | Reinforced high-impact polymer
+|===

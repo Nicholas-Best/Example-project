@@ -1,0 +1,15 @@
+== Disposal
+
+To protect the environment and comply with international safety standards, do not dispose of this device with household waste. Follow all local regulations regarding the disposal of electronic equipment.
+
+=== Battery Disposal
+This device contains high-capacity Lithium-Ion batteries. These must be removed from the chassis and taken to an authorized battery recycling center. Improper disposal may lead to environmental contamination or fire hazards.
+
+=== Electronic Components
+The processing core and circuit boards contain materials that can be recovered and recycled. Please use your local collection programs for the main unit.
+
+[cols="^1,^1", frame=none, grid=none]
+|===
+| image:iso-7000.svg[width=50] | image:W026.svg[width=50]
+| Recycle electronics | Lithium-Ion battery
+|===

@@ -1,7 +1,10 @@
 = {product-name}
 
 [discrete]
-== Installation and maintenance manual
+=== Installation and maintenance manual
+
+{nbsp} +
+{nbsp}
 
 image::px-jammer-pro-5000-cover-image.png[width=50%, align="center"][Cover image for the {product-name}]
 

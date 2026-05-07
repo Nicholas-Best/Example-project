@@ -1,0 +1,19 @@
+== Troubleshooting
+
+If the device fails during the initial configuration or the signal strength drops, consult the table for troubleshooting assistance.
+If you need further assistance, contact {company-name} at {email}.
+
+[cols="1,2,2", options="header"]
+|===
+| Symptom | Probable cause | Resolution
+
+| Status LED is off | Battery modules are depleted or improperly seated.
+| Ensure batteries are locked into the mounting brackets and fully charged.
+
+| Low signal range | Antennas in the transmission array are obstructed.
+| Clear the top-mounted section of any metallic covers or debris. +
+Move the device to an open area with no signal interfierance or metal nearby.
+
+| Overheating | Cooling block intake is blocked.
+| Inspect the base of the unit and clear airflow obstructions.
+|===

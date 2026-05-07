@@ -1,0 +1,20 @@
+=== Main circuit board PCBU
+
+The {product-name} uses a central PCBU located under the main display controls.
+
+.Main circuit board
+image::pcb-callouts.png[alt=The main circuit board.,width=400,height=700]
+
+[cols="20h,~" frame=all, grid=rows]
+[width=100%]
+|===
+|1 USB connection
+|Used to connect an external device to the PCBU.
+
+|2 Amplification modules
+|Used to amplify the radio frequency.
+
+|3 Main power connector
+|Used to supply the {product-name} with power from the batteries.
+|===
+
