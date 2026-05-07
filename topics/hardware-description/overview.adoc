@@ -1,0 +1,5 @@
+=== Overview
+
+The PX-Jammer Pro 5000 is a wide-band signal interference system designed to disrupt unauthorized radio communication and cellular signals within a localized perimeter.
+Its primary function is to neutralize remote-controlled threats and secure sensitive areas by emitting high-power electromagnetic noise across targeted frequency ranges. In operation, the device scans the RF environment and projects a focused jamming curtain that prevents external signals from reaching their intended receivers, effectively creating an electronically sterile zone.
+

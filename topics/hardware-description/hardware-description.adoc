@@ -1,0 +1,6 @@
+== Hardware description
+
+To safely install and maintain {product-name}, you must be familiar with all of the device parts and functions.
+
+:warning-body: You must read and be aware of all safety information before installing or working with the device.
+include::../../snippets/warning.adoc[]

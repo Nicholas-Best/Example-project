@@ -18,11 +18,16 @@
 
 // Cover page
 include::topics/cover.adoc[]
+
+<<<
+
 include::topics/introductory-information.adoc[]
 
-include::topics/safety-information/safety-information.adoc[]
+<<<
 
 // Safety information
+include::topics/safety-information/safety-information.adoc[]
+
 include::topics/safety-information/safety-notices.adoc[]
 
 include::topics/safety-information/residual-risks/residual-risks.adoc[]
@@ -41,4 +46,44 @@ include::topics/safety-information/intended-use.adoc[]
 
 include::topics/safety-information/ppe-requirements.adoc[]
 
-//include::topics/safety-information/residual-risks/.adoc[]
+<<<
+
+// Hardware
+
+include::topics/hardware-description/hardware-description.adoc[]
+
+include::topics/hardware-description/overview.adoc[]
+
+include::topics/hardware-description/box-contents.adoc[]
+
+//include::topics/hardware-description/device-parts.adoc[]
+
+<<<
+
+// Installation
+
+<<<
+
+// Software
+
+<<<
+
+// Maintenance
+
+<<<
+
+// Specifications
+
+include::topics/specifications.adoc[]
+
+<<<
+
+// Troubleshooting
+
+include::topics/troubleshooting.adoc[]
+
+<<<
+
+// Disposal
+
+include::topics/disposal.adoc[]

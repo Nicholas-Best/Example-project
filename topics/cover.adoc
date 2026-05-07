@@ -3,7 +3,14 @@
 [discrete]
 == Installation and maintenance manual
 
-image::https://via.placeholder.com/600x400.png[Cover image for the {product-name}]
+image::px-jammer-pro-5000-cover-image.png[width=50%, align="center"][Cover image for the {product-name}]
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp}
+
 
 Read this manual before use.
 Retain this manual for future use.

@@ -1,4 +1,4 @@
-Published on: /date
+Published on: {docdate}
 Document ID: PX-J5XXX-V1
 
 [discrete]
