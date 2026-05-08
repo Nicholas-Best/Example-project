@@ -2,6 +2,8 @@
 Nicholas Best nicholas.alexander.best@gmail.com
 :description: Technical assembly and maintenance manual for the {product-name}.
 :keywords: hardware, electronics, assembly, docs-as-code
+= Document Title
+:page-background-image: image:watermark.png[fit=none,width=7%,position=right]
 
 [discrete]
 === Installation and maintenance manual

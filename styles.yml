@@ -1,5 +1,8 @@
 extends: default
 
+page:
+  foreground-image: image:watermark.png[pdfwidth=50%,align=center,vpos=center,opacity=0.1]
+
 admonition:
   border_width: 2
   border_color: #E6E6E6
@@ -7,23 +10,14 @@ admonition:
 
 role:
   redbox:
-    # This forces the table container inside the role to obey
     table_border_width: 3
     table_border_color: #FF0000
     table_background_color: #FFF0F0
-    # This forces the vertical column line
     table_grid_width: 1
     table_grid_color: #E6E6E6
-    # Padding: Top, Right, Bottom, Left
     table_padding: [10, 15, 10, 15]
-
-role:
   red-circle:
     font_color: #FFFFFF
     background_color: #FF0000
     border_radius: 10
-    # You might need to adjust padding to make it look like a circle
     padding: [2, 5, 2, 5]
-
-page:
-  background_image: image:watermark.png[fit=none, pdfwidth=50%, align=center, vpos=center]
