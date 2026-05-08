@@ -1,0 +1,17 @@
+=== Mounting the {product-name} on a wall
+
+include::../../snippets/pinch-point.adoc[]
+
+You can install the {product-name} on a wall using the chasis wall mount. You can remove the device from the wall mount by pressing the locking mechanism on the side of the wall mount.
+
+*To install the {product-name} on a wall, do the following:*
+
+. Install the wall mount on the desired surface.
+. Hold the {product-name} on both sides, making sure no object is between the central mounting and the wall mount.
+. Slowly slide the {product-name} over the wall mount until you hear a snap.
+
+*To remove the {product-name} from a wall mount, do the following:*
+
+. Press the lock switch on both side of the wall mount.
+The locking mechanism snaps.
+. Slide the {product-name} upwards.

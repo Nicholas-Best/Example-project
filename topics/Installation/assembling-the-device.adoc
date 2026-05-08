@@ -1,0 +1,27 @@
+=== Assembling the {product-name}
+
+include::../../snippets/electrical.adoc[]
+
+include::../../snippets/pace-maker.adoc[]
+
+//include::../../snippets/rf-emf.adoc[]
+
+:note-body: The chasis connections are preconnected. You do not have to modify the chasis connections.
+
+The {product-name} must be installed on a clean surface and free of debris. Before power the device, make sure no electronic device that could be damaged is in range.
+
+*To assemble the {product-name}, do the following:*
+
+. Open the device's front chasis.
+. Using the marking on the chasis and circuit board, place the main circuit board inside the device.
+The markings must align to form a single straight line.
+. Using four 5 mm phillips screws, secure the circuit board to the chasis.
+. On the top of the device, install the radio frequency antennas by using the antenna screw.
+. Connect the main power connection from the circuit board to the chasis.
+For more infomation, refer to <<Main circuit board PCBU>>
++
+include::../../snippets/note.adoc[]
+. Place the lithium-ion batteries inside the bottom battery section.
+. Push the batteries until you hear a snap.
+. Power the device and run functionality tests.
+. Using four 7 mm phillips screws, install the chasis front cover.

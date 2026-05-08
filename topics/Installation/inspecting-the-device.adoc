@@ -1,0 +1,16 @@
+=== Inspecting the {product-name}
+
+include::../../snippets/electrical.adoc[]
+:warning-body: Damaged lithium-ion batteries can explode! +
+Make sure the batteries do have any physical damage, such as dents or swollen areas.
+
+Before assembling the device, you must make sure that all of the components are undamaged by inspecting the device and its accessories.
+
+*To inspect the {product-name}, do the following:*
+
+* Visually inspect the RF antennas for any physical damage, such as a bent antenna o broken connection.
+* Visually inspect the {product-name} chasis for any damage that could affect the internal circuitry.
+* Visually inspecy the batteries for any damage.
++
+include::../../snippets/warning.adoc[]
+* To check that the circuit board is working properly, connect the circuit board to an in-circuit tester.

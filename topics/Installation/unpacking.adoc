@@ -1,0 +1,12 @@
+=== Unpacking the {product-name}
+
+Before installing the {product-name}, you must remove it from its box and protective packaging.
+
+*To unpack the {product-name}, do the following:*
+
+. Position the box in an upright position and open the box flats.
+. Remove the accessories box and set aside.
+. Carefully lift the device from the foam surrounding.
+. Place the device on a flat, clean surface.
+. Open the chasis and remove the carefully remove the circuit board.
+. From the bottom of the box, remove the batteries.

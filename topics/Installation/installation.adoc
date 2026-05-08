@@ -1,0 +1,6 @@
+== Installation
+
+:warning-body: Only authorized personnell are allowed to install the {product-name}.
+include::../../snippets/warning.adoc[]
+
+Make sure to completely read and understand this section before intalling the {product-name}. Failure to understand the installation process can result in damage to the device.

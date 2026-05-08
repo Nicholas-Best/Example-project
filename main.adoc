@@ -62,7 +62,15 @@ include::topics/hardware-description/pcbu.adoc[]
 
 // Installation
 
+include::topics/Installation/installation.adoc[]
 
+include::topics/Installation/unpacking.adoc[]
+
+include::topics/Installation/inspecting-the-device.adoc[]
+
+include::topics/Installation/assembling-the-device.adoc[]
+
+include::topics/Installation/mounting-the-device.adoc[]
 
 <<<
 

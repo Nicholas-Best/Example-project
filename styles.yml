@@ -24,3 +24,6 @@ role:
     border_radius: 10
     # You might need to adjust padding to make it look like a circle
     padding: [2, 5, 2, 5]
+
+page:
+  background_image: image:watermark.png[fit=none, pdfwidth=50%, align=center, vpos=center]

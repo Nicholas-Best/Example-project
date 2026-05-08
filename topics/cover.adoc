@@ -1,4 +1,7 @@
 = {product-name}
+Nicholas Best nicholas.alexander.best@gmail.com
+:description: Technical assembly and maintenance manual for the {product-name}.
+:keywords: hardware, electronics, assembly, docs-as-code
 
 [discrete]
 === Installation and maintenance manual
